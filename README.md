@@ -1,6 +1,9 @@
 # Fishstick-Launcher
 A Multipurpose Fortnite Launcher made to make your life easy.
 
+## How to Download
+[Go here](https://github.com/vanxh/Fishstick-Launcher/releases) and download the latest release.
+
 ## Features
 - Login multiple fortnite accounts.
 - Switch account by ease of just clicking a button.
