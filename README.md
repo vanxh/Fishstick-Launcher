@@ -18,3 +18,7 @@ A Multipurpose Fortnite Launcher made to make your life easy.
 
 ## Support
 Join our [discord server](https://discord.gg/fishstick).
+
+## Credits
+- a.bakedpotato (implemented idea of potato launcher , that encouraged me to make this launcher.)
+- shivdev08 (design ideas)
