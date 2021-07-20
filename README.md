@@ -8,9 +8,11 @@ A Multipurpose Fortnite Launcher made to make your life easy.
 - Login multiple fortnite accounts.
 - Switch account by ease of just clicking a button.
 - Launch fortnite easily.
+- Check your account data.
+- Generate Exchange code and Access token and copy to clipboard easily.
 
 ## Upcoming 
-- Multiple login methods.
+- Device Auth Login.
 - Account operations.
 - Claim daily rewards.
 - Change homebase name.
