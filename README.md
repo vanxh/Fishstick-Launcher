@@ -7,6 +7,8 @@ A Multipurpose Fortnite Launcher made to make your life easy.
 ## Features
 - Login multiple fortnite accounts.
 - Switch account by ease of just clicking a button.
+- Custom Status in Fortnite.
+- Get your party data.
 - Launch fortnite easily.
 - Check your account data.
 - Generate Exchange code and Access token and copy to clipboard easily.
