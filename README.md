@@ -7,8 +7,6 @@ A Multipurpose Fortnite Launcher made to make your life easy.
 ## Features
 - Login multiple fortnite accounts.
 - Switch account by ease of just clicking a button.
-- Custom Status in Fortnite.
-- Get your party data.
 - Launch fortnite easily.
 - Check your account data.
 - Generate Exchange code and Access token and copy to clipboard easily.
@@ -19,6 +17,8 @@ A Multipurpose Fortnite Launcher made to make your life easy.
 - Claim daily rewards.
 - Change homebase name.
 - Friend operations.
+- - Custom Status in Fortnite.
+- Get your party data.
 
 ## Support
 Join our [discord server](https://discord.gg/fishstick).
