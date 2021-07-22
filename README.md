@@ -10,14 +10,15 @@ A Multipurpose Fortnite Launcher made to make your life easy.
 - Launch fortnite easily.
 - Check your account data.
 - Generate Exchange code and Access token and copy to clipboard easily.
+- Invite your Friends.
+- Check friend list.
 
 ## Upcoming 
 - Device Auth Login.
-- Account operations.
 - Claim daily rewards.
 - Change homebase name.
-- Friend operations.
-- - Custom Status in Fortnite.
+- More Friend operations.
+- Custom Status in Fortnite.
 - Get your party data.
 
 ## Support
